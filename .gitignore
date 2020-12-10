@@ -1,0 +1,25 @@
+/sts-bundle/
+spring-tool-suite-3.9.13.RELEASE-e4.16.0-win32-x86_64.zip
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+# https://github.com/takari/maven-wrapper#usage-without-binary-jar
+.mvn/wrapper/maven-wrapper.jar
+/.metadata/
+Servers/
+*.classpath
+*.project
+*.springBeans
+*.prefs
+*.component
+.settings/
+spring-tool-suite-4-4.7.2.RELEASE-e4.16.0-win32.win32.x86_64.self-extracting.jar
+sts-4.7.2.RELEASE/
+h2/
+h2web/
